@@ -17,29 +17,29 @@
 
 - Ph.D. in Industrial and Systems Engineering | Mississippi State University, Starkville, MS, United States | Jul 2021 – Dec 2024
 Dissertation: On the Nexus of Topological Measures and Their Ability to Elucidate Network Vulnerability Patterns.
-Advisor: Dr. Nazanin Tajik | Relevant courses: Optimization, Machine Learning with PySpark, Deep Learning, Advanced Data Analysis, Time Series.
+Advisor: Dr. Nazanin Tajik | Relevant courses: Optimization, Machine Learning with PySpark, Deep Learning, Advanced Data Analysis, Time Series.<br>
 - Minor in Computer Science 
 Advisor: Dr. Max Young | Relevant courses: Machine Learning, Artificial intelligence with Python, Introduction to Algorithms, Data Science with R, Data Structures with C++.
 - M.S. in Industrial Engineering | Science & Research Branch Azad University, Tehran, Iran | Sep 2010 – Jan 2013
 Dissertation: A New Mathematical Model for a Multi-Depot Vehicle Routing Problem in a Natural Disaster Situation and Its Solution Using a Particle Swarm Optimization Algorithm.
-Advisor: Dr. Reza Tavakoli-Moghadam |  Relevant courses: Simulation of freight transport, System analysis of air pollution.
+Advisor: Dr. Reza Tavakoli-Moghadam |  Relevant courses: Simulation of freight transport, System analysis of air pollution.<br>
 - B.S. in Statistics	| Imam Khomeini International University, Qazvin, Iran | Sep 2004 – Oct 2008
 
 
 ## Work Experience
 
 ### Machine Learning Engineer @Archer Daniels Midland (ADM) (Apr 2024 – Feb 2025)
-- Redesigned the architecture of SAP-generated reports using Python and JavaScript, implementing a container app, Faiss as a vector database, and FastAPI. Integrated APIM aligned with a React frontend and deployed the solution in Azure, reducing cost usage by 30% and improving system efficiency. 
-- Designed and implemented a GenAI Q&A system based on the Retrieval-Augmented Generation (RAG) model using Python and Dash deploying it in Azure, with embedding-based cosine similarity to optimize article retrieval efficiency and enhance user accessibility.
+- Redesigned the architecture of SAP-generated reports using Python and JavaScript, implementing a container app, Faiss as a vector database, and FastAPI. Integrated APIM aligned with a React frontend and deployed the solution in Azure, reducing cost usage by 30% and improving system efficiency. <br>
+- Designed and implemented a GenAI Q&A system based on the Retrieval-Augmented Generation (RAG) model using Python and Dash deploying it in Azure, with embedding-based cosine similarity to optimize article retrieval efficiency and enhance user accessibility.<br>
 - Designed an advanced GenAI HR recommendation system using Python and deploying it in Azure, Implementing embedded cosine similarity for candidate-job matching to reduced candidate screening time by 40%.
 
 ### Research Scientist/Intern @Social Science Research Center (May 2023 – Aug 2023)
-- Analyzed social media data for an NSF-funded research project; utilized Pandas, NumPy, and NLP techniques (NLTK, NRCLex, regex) to assess mental health trends during critical events such as COVID-19.
+- Analyzed social media data for an NSF-funded research project; utilized Pandas, NumPy, and NLP techniques (NLTK, NRCLex, regex) to assess mental health trends during critical events such as COVID-19.<br>
 - Developed interactive data visualizations using JavaScript and Matplotlib; transformed complex research findings into clear, insightful visuals to enhance data interpretation and communication.
 
 ### Research Assistant @Mississippi State University (Jun 2021 – Apr 2024)
-- Conducted an in-depth study on infrastructure system resilience; analyzed disaster resilience across engineering, ecology, and social sciences to identify key vulnerabilities and improve mitigation strategies.
-- Developed strategic board game AI using machine learning and neural networks; integrated A search and deep reinforcement learning to enhance decision-making and optimize gameplay performance.
+- Conducted an in-depth study on infrastructure system resilience; analyzed disaster resilience across engineering, ecology, and social sciences to identify key vulnerabilities and improve mitigation strategies.<br>
+- Developed strategic board game AI using machine learning and neural networks; integrated A search and deep reinforcement learning to enhance decision-making and optimize gameplay performance.<br>
 - Independently researched deep reinforcement learning techniques; explored policy gradients, Q-learning, and actor-critic methods to advance AI decision-making and optimize learning efficiency.
 
 ### Research Assistant and Teaching Assistant @Ohio University (Jan 2021 – May 2021)
@@ -57,10 +57,9 @@ Advisor: Dr. Reza Tavakoli-Moghadam |  Relevant courses: Simulation of freight t
 ![XTTS_Persian](/assets/XTTSSVG.png)
 
 ### Data Analyst @ Maadiran Industries Group, TCL Exclusive Home Appliance representative (December 2017 - January 2022)
-- Developed and managed budgets to optimize business metrics, automated workflows, and monitored Key Performance Indicators (KPIs), resulting in a 25% increase in on-time delivery and $80,000 reduction in quarterly shipping costs.
-
-- Improved technical and non-technical key stakeholders' decision-making efficiency by 20% through statistical methods, Python, analytics software, and data visualization tools, resulting in enhanced business strategy, provided technical solutions for business problems, and meaningful insights.
-- Enhanced query performance through strategic optimization techniques, including setting efficient indexes, separating log files from data files, and implementing various other optimization methods.
+- Developed and managed budgets to optimize business metrics, automated workflows, and monitored Key Performance Indicators (KPIs), resulting in a 25% increase in on-time delivery and $80,000 reduction in quarterly shipping costs.<br>
+- Improved technical and non-technical key stakeholders' decision-making efficiency by 20% through statistical methods, Python, analytics software, and data visualization tools, resulting in enhanced business strategy, provided technical solutions for business problems, and meaningful insights.<br>
+- Enhanced query performance through strategic optimization techniques, including setting efficient indexes, separating log files from data files, and implementing various other optimization methods.<br>
 - Effectively trained customers in financial systems, resulting in a significant increase in employees' knowledge and a 20% improvement in software usage efficiency.
 
 
@@ -75,7 +74,7 @@ Under Review:
 6.	Saei, S., Barker, K., Tajik, N., & Ermagun, A. (2024). “On the Nexus of Topological Measures and Their Ability to Elucidate Network Vulnerability Patterns.” Under review in Journal of Reliability Engineering and System Safety.
 
 ## Review and Professional Associations 
-- Journal of Plus One (2022 - 2023)
+- Journal of Plus One (2022 - 2023)<br>
 - Student Member of INFORMS, IISE (2022-Present)
 
 ## About
