@@ -53,17 +53,7 @@ Advisor: Dr. Reza Tavakoli-Moghadam |  Relevant courses: Simulation of freight t
 - Led optimization projects for supply chain and customer satisfaction by analyzing key metrics to enhance operational efficiency.
 - Led the advanced data modeling and analysis 3G-4G Mobile Broadband (MBB) expansion projects in collaboration with Ericsson, Huawei, and ADL vendors to optimize network expansion and connectivity.
 
-  
-![XTTS_Persian](/assets/XTTSSVG.png)
-
-### Data Analyst @ Maadiran Industries Group, TCL Exclusive Home Appliance representative (December 2017 - January 2022)
-- Developed and managed budgets to optimize business metrics, automated workflows, and monitored Key Performance Indicators (KPIs), resulting in a 25% increase in on-time delivery and $80,000 reduction in quarterly shipping costs.<br>
-- Improved technical and non-technical key stakeholders' decision-making efficiency by 20% through statistical methods, Python, analytics software, and data visualization tools, resulting in enhanced business strategy, provided technical solutions for business problems, and meaningful insights.<br>
-- Enhanced query performance through strategic optimization techniques, including setting efficient indexes, separating log files from data files, and implementing various other optimization methods.<br>
-- Effectively trained customers in financial systems, resulting in a significant increase in employees' knowledge and a 20% improvement in software usage efficiency.
-
-
-## Publications
+### Publications
 1.	Saei, S., & Tajik, N. (2024). “Risk-Neutral, Risk-Averse, and Hybrid Approaches for Scenario-Based Two-Stage Stochastic Programming in Disrupted Transportation Networks.” Presented at the 2024 Annual INFORMS Conference page 1151/1276.
 2.	Saei, S., & Tajik, N. (2022). “Time-Dependent Restoration Routing Problem: An Efficient Initial Solution.” Findings.
 3.	S Saei, M Mohammadi, M Fekriseri, K Jenab. (2019).  “A computational method for estimating Burr XII parameters with complete and multiple censored data”, arXiv:1901.09299
