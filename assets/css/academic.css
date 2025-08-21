@@ -1,32 +1,128 @@
-/* ===== Turned Network Banner ===== */
+
+/* Academic Classic theme — professional & easy to navigate */
+:root {
+  --bg: #ffffff;
+  --ink: #111827;
+  --muted: #6b7280;
+  --brand: #0f62fe; /* IBM Blue */
+  --accent: #10b981; /* Emerald */
+  --panel: #f7fafc;
+  --border: #e5e7eb;
+  --radius: 14px;
+  --shadow: 0 10px 30px rgba(2,8,20,0.08);
+  --sans: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0; font-family: var(--sans); color: var(--ink); background: var(--bg);
+  line-height: 1.6;
+}
+
+.container { width: min(1100px, 92vw); margin: 0 auto; }
+
+/* Top navigation */
+.navbar {
+  position: sticky; top: 0; z-index: 100;
+  background: rgba(255,255,255,0.85);
+  backdrop-filter: saturate(180%) blur(12px);
+  border-bottom: 1px solid var(--border);
+}
+.navbar-inner { display: flex; align-items: center; justify-content: space-between; height: 64px; }
+.brand { font-weight: 800; letter-spacing: 0.3px; display:flex; align-items:center; gap:10px; }
+.brand img { width: 36px; height: 36px; border-radius: 50%; }
+.nav-links { display: flex; gap: 20px; }
+.nav-links a { text-decoration: none; color: var(--ink); font-weight: 600; opacity: .85; }
+.nav-links a.active, .nav-links a:hover { color: var(--brand); opacity: 1; }
+
+/* Hero section with banner & portrait */
+.hero { position: relative; }
+.hero .banner {
+  width: 100%; height: 260px; border-bottom: 4px solid #dbeafe;
+  background: url('../assets/img/banner.svg') center/cover no-repeat fixed;
+}
+.hero .profile {
+  position: relative; transform: translateY(-60px);
+}
+.hero .profile .card {
+  display: flex; align-items: center; gap: 22px;
+  background: #fff; border: 1px solid var(--border); border-radius: var(--radius);
+  box-shadow: var(--shadow); padding: 18px 20px;
+}
+.hero .portrait {
+  width: 120px; height: 120px; border-radius: 50%;
+  border: 6px solid #fff; box-shadow: 0 8px 26px rgba(0,0,0,.15);
+  background: #f3f4f6; overflow: hidden;
+}
+.hero h1 { margin: 0; font-size: clamp(1.6rem, 2.2vw + 1rem, 2.4rem); }
+.hero .roles { color: var(--muted); margin-top: 4px; }
+
+.icons { display: flex; gap: 10px; flex-wrap: wrap; }
+.icon-btn {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 40px; height: 40px; border-radius: 10px; border: 1px solid var(--border);
+  background: #fff; box-shadow: var(--shadow);
+}
+.icon-btn:hover { border-color: #c7d2fe; }
+
+/* Section blocks */
+.section { padding: 16px 0 38px; }
+.section h2 { margin: 0 0 6px; font-size: 1.5rem; }
+.section .lead { color: var(--muted); margin-top: 0; }
+
+.card { background: #fff; border: 1px solid var(--border); border-radius: var(--radius); padding: 18px; box-shadow: var(--shadow); }
+.grid-2 { display: grid; gap: 16px; grid-template-columns: 1fr 1fr; }
+.grid-3 { display: grid; gap: 16px; grid-template-columns: repeat(3, 1fr); }
+@media (max-width: 900px) { .grid-3 { grid-template-columns: 1fr; } .grid-2 { grid-template-columns: 1fr; } }
+
+.badge { display: inline-block; padding: 2px 8px; border-radius: 999px; border: 1px solid var(--border); font-size: .8rem; color: var(--muted); }
+
+/* Publications list */
+.controls { display: flex; flex-wrap: wrap; gap: 10px; margin: 10px 0 14px; }
+.controls input[type="search"] { padding: 10px 12px; border-radius: 10px; border: 1px solid var(--border); width: min(480px, 100%); }
+.controls .chip { padding: 6px 12px; border-radius: 999px; border: 1px solid var(--border); cursor: pointer; }
+.controls .chip.active { background: #eef2ff; border-color: #c7d2fe; color: #3730a3; }
+.pub-item { display: grid; gap: 8px; grid-template-columns: 1fr auto; align-items: start; }
+.pub-item + .pub-item { border-top: 1px dashed var(--border); margin-top: 12px; padding-top: 12px; }
+
+.btn { display: inline-flex; align-items: center; gap: 8px; padding: 10px 14px; border-radius: 10px; border: 1px solid var(--border); background: #fff; font-weight: 700; text-decoration: none; color: var(--ink); }
+.btn.primary { background: var(--brand); color: #fff; border: none; }
+.btn:hover { opacity: .95; }
+.muted { color: var(--muted); }
+.small { font-size: .92rem; }
+
+footer { padding: 36px 0; color: var(--muted); }
+footer .footer-grid { display: grid; gap: 16px; grid-template-columns: 2fr 1fr 1fr; }
+@media (max-width: 800px) { footer .footer-grid { grid-template-columns: 1fr; } }
+
+/* Back-to-top */
+#backToTop {
+  position: fixed; right: 18px; bottom: 18px; display: none;
+  width: 44px; height: 44px; border-radius: 50%; border: 1px solid var(--border);
+  background: #fff; box-shadow: var(--shadow); align-items: center; justify-content: center;
+}
+#backToTop.show { display: flex; }
+
+
+/* ===== Turned Network Banner (added) ===== */
 .hero .banner{
   position: relative;
   width: 100%;
-  height: 260px; /* <-- change this to make the banner taller/shorter */
+  height: 260px;
   overflow: hidden;
   border-bottom: 4px solid #dbeafe;
-  background: #0b0d10 url('../img/banner.svg') center/cover no-repeat fixed; /* fallback image */
+  background: url('../img/banner.svg') center/cover no-repeat fixed;
 }
-
 .hero .banner #mesh{
   position: absolute;
-  /* bleed beyond the edges so rotation doesn't show background corners */
   inset: -6% -2%;
   width: 104%;
   height: 112%;
   pointer-events: none;
-
-  /* the "turned" effect */
   transform: rotate(-8deg) scale(1.02);
   transform-origin: 50% 50%;
-
-  /* visual treatment */
   mix-blend-mode: screen;
   opacity: .85;
   filter: contrast(100%) brightness(110%);
-}
-
-/* Optional: respect OS reduced-motion preference (remove if you always want it visible) */
-@media (prefers-reduced-motion: reduce){
-  .hero .banner #mesh{ display: none; }
 }
