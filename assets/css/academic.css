@@ -44,7 +44,7 @@ body {
   background: url('../assets/img/banner.svg') center/cover no-repeat fixed;
 }
 .hero .profile {
-  position: relative; transform: translateY(-80px);
+  position: relative; transform: translateY(-40px);
 }
 .hero .profile .card {
   display: flex; align-items: center; gap: 22px;
