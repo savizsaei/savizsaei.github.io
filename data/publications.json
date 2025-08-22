@@ -5,9 +5,9 @@
     "authors": ["Saei, S.", "Ghimire, S.", "Anreddy, S."],
     "venue": "SEDE-2025, Springer Nature",
     "year": 2025,
-    "type": "conference",
+    "type": "conference- under publish",
     "tags": ["LLM", "validation", "community services"],
-    "url": "https://example.com/sede-2025-llm-validation"
+    "url": "https://meteor.springer.com/container/contribute.jsf?id=297217&auth_user=656046&auth_key=ac7c49808c5289a59ca954e6b64e2eed"
   },
   {
     "id": "sede-2025-rag",
@@ -15,9 +15,9 @@
     "authors": ["Saviz, S.", "Anreddy, S."],
     "venue": "SEDE-2025, Springer Nature",
     "year": 2025,
-    "type": "conference",
+    "type": "conference- under publish",
     "tags": ["RAG", "information access", "older adults"],
-    "url": "https://example.com/sede-2025-rag"
+    "url": "https://meteor.springer.com/project/dashboard.jsf?id=1925&tab=MyContainers"
   },
   {
     "id": "arxiv-2503-23251",
@@ -37,7 +37,7 @@
     "year": 2024,
     "type": "conference",
     "tags": ["stochastic programming", "transportation", "resilience"],
-    "url": "https://example.com/informs-2024-stochastic"
+    "url": "https://arxiv.org/pdf/2503.23251"
   },
   {
     "id": "findings-2022-routing",
@@ -47,7 +47,7 @@
     "year": 2022,
     "type": "journal",
     "tags": ["routing", "restoration", "optimization"],
-    "url": "https://example.com/findings-2022-routing"
+    "url": "https://findingspress.org/article/37396"
   },
   {
     "id": "arxiv-2019-burrxii",
@@ -77,7 +77,7 @@
     "year": 2022,
     "type": "journal",
     "tags": ["COVID-19", "SVI", "classification", "public health"],
-    "url": "https://iaexpress.ca/articles-download/volume-58-3-july-2022/"
+    "url": "https://iaexpress.ca/wp-content/uploads/2023/01/8_Biomed-Sci-Instrum-Vol58_3_July_2022_Saviz_pg168.pdf"
   },
   {
     "id": "biorxiv-2025-aeromonas",
