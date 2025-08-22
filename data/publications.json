@@ -1,61 +1,92 @@
 [
   {
-    "id": "biorxiv-2025-aeromonas",
-    "title": "Machine Learning and Network Analysis to Predict Hypothetical Protein Functions of Aeromonas hydrophila",
-    "authors": [
-      "Harun Pirim",
-      "Zaidur Rahman",
-      "Saviz Saei",
-      "Sangam Gyawali",
-      "Mohammad Marufuzzaman",
-      "Nazanin Tajik",
-      "Hasan Tekedar"
-    ],
-    "venue": "bioRxiv",
+    "id": "sede-2025-llm-validation",
+    "title": "Beyond Accuracy: Evaluating LLMs for Validating Community Service Provider",
+    "authors": ["Saei, S.", "Ghimire, S.", "Anreddy, S."],
+    "venue": "SEDE-2025, Springer Nature",
     "year": 2025,
-    "type": "preprint",
-    "tags": [
-      "machine learning",
-      "network analysis",
-      "bioinformatics"
-    ],
-    "url": "https://www.biorxiv.org/content/10.1101/2025.07.22.666223v1.full.pdf"
+    "type": "conference",
+    "tags": ["LLM", "validation", "community services"],
+    "url": "https://example.com/sede-2025-llm-validation"
   },
   {
-    "id": "msu-thesis-2024",
-    "title": "On topological measures and network vulnerability patterns: a review and comparative analysis",
-    "authors": [
-      "Saviz Saei"
-    ],
-    "venue": "Mississippi State University — Ph.D. Dissertation",
+    "id": "sede-2025-rag",
+    "title": "A Comparative Analysis of RAG and Non-RAG Models to Improve Access to Service Provider Information for Older Adults in Mississippi",
+    "authors": ["Saviz, S.", "Anreddy, S."],
+    "venue": "SEDE-2025, Springer Nature",
+    "year": 2025,
+    "type": "conference",
+    "tags": ["RAG", "information access", "older adults"],
+    "url": "https://example.com/sede-2025-rag"
+  },
+  {
+    "id": "arxiv-2503-23251",
+    "title": "Scenario-Based Optimization of Network Resilience: Integrating Vulnerability Assessments and Traffic Flow",
+    "authors": ["Saei, S."],
+    "venue": "arXiv:2503.23251",
+    "year": 2025,
+    "type": "preprint",
+    "tags": ["network resilience", "optimization", "traffic flow"],
+    "url": "https://arxiv.org/abs/2503.23251"
+  },
+  {
+    "id": "informs-2024-stochastic",
+    "title": "Risk-Neutral, Risk-Averse, and Hybrid Approaches for Scenario-Based Two-Stage Stochastic Programming in Disrupted Transportation Networks",
+    "authors": ["Saei, S.", "Tajik, N."],
+    "venue": "INFORMS Annual Conference, 2024 (page 1151/1276)",
     "year": 2024,
-    "type": "thesis",
-    "tags": [
-      "network resilience",
-      "topological measures",
-      "stochastic programming"
-    ],
-    "url": "https://scholarsjunction.msstate.edu/td/6437/"
+    "type": "conference",
+    "tags": ["stochastic programming", "transportation", "resilience"],
+    "url": "https://example.com/informs-2024-stochastic"
+  },
+  {
+    "id": "findings-2022-routing",
+    "title": "Time-Dependent Restoration Routing Problem: An Efficient Initial Solution",
+    "authors": ["Saei, S.", "Tajik, N."],
+    "venue": "Findings, 2022",
+    "year": 2022,
+    "type": "journal",
+    "tags": ["routing", "restoration", "optimization"],
+    "url": "https://example.com/findings-2022-routing"
+  },
+  {
+    "id": "arxiv-2019-burrxii",
+    "title": "A computational method for estimating Burr XII parameters with complete and multiple censored data",
+    "authors": ["Saei, S.", "Mohammadi, M.", "Fekriseri, M.", "Jenab, K."],
+    "venue": "arXiv:1901.09299",
+    "year": 2019,
+    "type": "preprint",
+    "tags": ["statistics", "distribution fitting", "Burr XII"],
+    "url": "https://arxiv.org/abs/1901.09299"
+  },
+  {
+    "id": "jtr-2013-vrp",
+    "title": "A New Mathematical Model for a Multi-Depot Vehicle Routing Problem in a Natural Disaster Situation and Its Solution Using a Particle Swarm Optimization Algorithm",
+    "authors": ["Saei, S.", "Tavakoli-Moghaddam, R.", "Alinaghian, M."],
+    "venue": "Journal of Transportation Research, 12(142), 37-51",
+    "year": 2013,
+    "type": "journal",
+    "tags": ["vehicle routing", "PSO", "disaster response"],
+    "url": "https://example.com/jtr-2013-vrp"
   },
   {
     "id": "bsi-2022-covid-svi",
-    "title": "Prediction of Community Transmission Level of COVID‑19 Using Machine Learning Algorithms Based on the CDC Social Vulnerability Index",
-    "authors": [
-      "Saviz Saei",
-      "Yibin Wang",
-      "Mohammad Marufuzzaman",
-      "Nazanin Morshedlou",
-      "Haifeng Wang"
-    ],
-    "venue": "Biomedical Sciences Instrumentation 58(3):168–176",
+    "title": "Prediction of Community Transmission Levels of COVID-19 Using Machine Learning Algorithms Based on the CDC Social Vulnerability Index",
+    "authors": ["Saei, S.", "Wang, Y.", "Marufuzzaman, M.", "Tajik, N.", "Wang, H."],
+    "venue": "Biomedical Sciences Instrumentation 58(3), 2022",
     "year": 2022,
     "type": "journal",
-    "tags": [
-      "COVID‑19",
-      "SVI",
-      "classification",
-      "public health"
-    ],
+    "tags": ["COVID-19", "SVI", "classification", "public health"],
     "url": "https://iaexpress.ca/articles-download/volume-58-3-july-2022/"
+  },
+  {
+    "id": "biorxiv-2025-aeromonas",
+    "title": "Machine Learning and Network Analysis to Predict Hypothetical Protein Functions of Aeromonas hydrophila",
+    "authors": ["Pirim, H.", "Rahman, Z.", "Saei, S.", "Gyawali, S.", "Marufuzzaman, M.", "Tajik, N.", "Tekedar, H. C."],
+    "venue": "bioRxiv, 2025-07",
+    "year": 2025,
+    "type": "preprint",
+    "tags": ["machine learning", "network analysis", "bioinformatics"],
+    "url": "https://www.biorxiv.org/content/10.1101/2025.07.22.666223v1.full.pdf"
   }
 ]
