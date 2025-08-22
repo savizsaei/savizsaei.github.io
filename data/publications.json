@@ -27,7 +27,7 @@
     "authors": [
       "Saviz Saei"
     ],
-    "venue": "Mississippi State University \u2014 Ph.D. Dissertation",
+    "venue": "Mississippi State University — Ph.D. Dissertation",
     "year": 2024,
     "type": "thesis",
     "tags": [
@@ -39,7 +39,7 @@
   },
   {
     "id": "bsi-2022-covid-svi",
-    "title": "Prediction of Community Transmission Level of COVID\u201119 Using Machine Learning Algorithms Based on the CDC Social Vulnerability Index",
+    "title": "Prediction of Community Transmission Level of COVID‑19 Using Machine Learning Algorithms Based on the CDC Social Vulnerability Index",
     "authors": [
       "Saviz Saei",
       "Yibin Wang",
@@ -47,11 +47,11 @@
       "Nazanin Morshedlou",
       "Haifeng Wang"
     ],
-    "venue": "Biomedical Sciences Instrumentation 58(3):168\u2013176",
+    "venue": "Biomedical Sciences Instrumentation 58(3):168–176",
     "year": 2022,
     "type": "journal",
     "tags": [
-      "COVID\u201119",
+      "COVID‑19",
       "SVI",
       "classification",
       "public health"
