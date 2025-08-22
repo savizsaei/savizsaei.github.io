@@ -88,7 +88,3 @@ http://localhost:8000
 📚 Google Scholar: Scholar Profile
 
 🧾 ORCID: 0000-0001-8125-435X
-
-✨ Built with care to share my work in Machine Learning, Optimization, and AI for Social Good.
-
-👉 Do you want me to also generate a shorter, recruiter-facing README (one that looks more like a portfolio intro, less technical) to use on your GitHub profile?
