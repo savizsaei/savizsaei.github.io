@@ -39,7 +39,7 @@
     if (inline && inline.textContent.trim()) {
       all = JSON.parse(inline.textContent);
     } else {
-      const res = await fetch('data/publications.json');
+      const res = await fetch('/data/publications.json');
       all = await res.json();
     }
   } catch(e) {
