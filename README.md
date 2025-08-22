@@ -63,12 +63,9 @@ assets/js/network.js — Animated banner background.
 
 data/publications.json — Publications data in JSON format (used in Publications section).
 
-🚀 Local Development
-
 # open in browser
-[http://localhost:8000](https://savizsaei.github.io/)
+(https://savizsaei.github.io/)
 
-📬 Contact
 
 📧 Email: savizsaei@gmail.com
 
