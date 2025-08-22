@@ -17,13 +17,13 @@ Optimization (stochastic, resilience, network design)
 
 Data Science & Statistical Modeling
 
-AI for Social Good
+AI for Social Science
 
 The site highlights my research, teaching, publications, professional experience, and achievements.
 
 📂 Site Structure
 
-Hero / Home: Banner with profile, contact links (email, GitHub, LinkedIn, ORCID, Scholar).
+Home: Banner with profile, contact links (email, GitHub, LinkedIn, ORCID, Scholar).
 
 Research: Projects on network resilience, optimization, and applied machine learning.
 
@@ -65,17 +65,8 @@ data/publications.json — Publications data in JSON format (used in Publication
 
 🚀 Local Development
 
-To preview locally:
-
-# clone the repo
-git clone https://github.com/savizsaei/savizsaei.github.io.git
-cd savizsaei.github.io
-
-# run a local server (Python)
-python3 -m http.server 8000
-
 # open in browser
-http://localhost:8000
+[http://localhost:8000](https://savizsaei.github.io/)
 
 📬 Contact
 
