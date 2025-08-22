@@ -81,7 +81,7 @@ body {
 
 /* Publications list */
 .controls { display: flex; flex-wrap: wrap; gap: 10px; margin: 10px 0 14px; }
-.controls input[type="search"] { padding: 10px 12px; border-radius: 10px; border: 1px solid var(--border); width: min(480px, 100%); }
+.controls input[type="search"] { padding: 10px 12px; border-radius: 10px; border: 1px solid var(--border); width: min(380px, 100%); }
 .controls .chip { padding: 6px 12px; border-radius: 999px; border: 1px solid var(--border); cursor: pointer; }
 .controls .chip.active { background: #eef2ff; border-color: #c7d2fe; color: #3730a3; }
 .pub-item { display: grid; gap: 8px; grid-template-columns: 1fr auto; align-items: start; }
@@ -107,3 +107,8 @@ footer .footer-grid { display: grid; gap: 16px; grid-template-columns: 2fr 1fr 1
 
 
 /* ===== Turned Network Banner (added) ===== */
+.grid-1 {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: 1fr;
+}
