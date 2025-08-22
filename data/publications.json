@@ -1,119 +1,61 @@
 [
   {
-    "id": "sede-2025-llm-validation",
-    "title": "Beyond Accuracy: Evaluating LLMs for Validating Community Service Providers",
-    "authors": ["Saviz Saei", "S. Ghimire", "Sujan R. R. Anreddy"],
-    "venue": "SEDE 2025 (Software & Data Engineering) — Springer Nature",
-    "year": 2025,
-    "type": "conference",
-    "status": "accepted",
-    "tags": ["LLM evaluation", "validation", "community services"],
-    "url": "https://www.isca-hq.org/SEDE/index.html"
-  },
-  {
-    "id": "sede-2025-rag-vs-nonrag",
-    "title": "A Comparative Analysis of RAG and Non-RAG Models to Improve Access to Service Provider Information for Older Adults in Mississippi",
-    "authors": ["Saviz Saei", "Sujan R. R. Anreddy"],
-    "venue": "SEDE 2025 (Software & Data Engineering) — Springer Nature",
-    "year": 2025,
-    "type": "conference",
-    "status": "accepted",
-    "tags": ["RAG", "information access", "older adults"],
-    "url": "https://www.isca-hq.org/SEDE/index.html"
-  },
-  {
-    "id": "arxiv-2025-network-resilience",
-    "title": "Scenario-Based Optimization of Network Resilience: Integrating Vulnerability Assessments and Traffic Flow",
-    "authors": ["Saviz Saei", "Nazanin Tajik"],
-    "venue": "arXiv",
-    "year": 2025,
-    "type": "preprint",
-    "tags": ["network resilience", "stochastic programming", "traffic flow"],
-    "url": "https://arxiv.org/abs/2503.23251"
-  },
-  {
-    "id": "informs-2024-risk-approaches",
-    "title": "Risk-Neutral, Risk-Averse, and Hybrid Approaches for Scenario-Based Two-Stage Stochastic Programming in Disrupted Transportation Networks",
-    "authors": ["Saviz Saei", "Nazanin Tajik"],
-    "venue": "INFORMS Annual Meeting",
-    "year": 2024,
-    "type": "talk",
-    "status": "presented",
-    "tags": ["stochastic programming", "transportation", "risk measures"],
-    "url": ""
-  },
-  {
-    "id": "findings-2022-restoration-routing",
-    "title": "Time-Dependent Restoration Routing Problem: An Efficient Initial Solution",
-    "authors": ["Saviz Saei", "Nazanin Tajik"],
-    "venue": "Findings",
-    "year": 2022,
-    "type": "journal",
-    "doi": "10.32866/001c.37396",
-    "tags": ["restoration routing", "infrastructure", "optimization"],
-    "url": "https://findingspress.org/article/37396-time-dependent-restoration-routing-problem-an-efficient-initial-solution"
-  },
-  {
-    "id": "arxiv-2019-burr-xii",
-    "title": "A Computational Method for Estimating Burr XII Parameters with Complete and Multiple Censored Data",
-    "authors": ["Saviz Saei", "Mohsen Mohammadi", "Mahsa Fekriseri", "Kouroush Jenab"],
-    "venue": "arXiv",
-    "year": 2019,
-    "type": "preprint",
-    "tags": ["statistics", "Burr XII", "censored data"],
-    "url": "https://arxiv.org/abs/1901.09299"
-  },
-  {
-    "id": "jtr-2015-mdvrp-pso",
-    "title": "A New Mathematical Model for a Multi-Depot Vehicle Routing Problem in a Natural Disaster Situation and Solving by a Particle Swarm Optimization Algorithm",
-    "authors": ["Saviz Saei", "Reza Tavakoli-Moghaddam", "Mehdi Alinaghian"],
-    "venue": "Journal of Transportation Research (Iran), 12(1):37–51",
-    "year": 2015,
-    "type": "journal",
-    "tags": ["VRP", "PSO", "disaster logistics"],
-    "url": "https://www.magiran.com/paper/1439049"
-  },
-
-  {
     "id": "biorxiv-2025-aeromonas",
     "title": "Machine Learning and Network Analysis to Predict Hypothetical Protein Functions of Aeromonas hydrophila",
-    "authors": ["Harun Pirim", "Zaidur Rahman", "Saviz Saei", "Sangam Gyawali", "Mohammad Marufuzzaman", "Nazanin Tajik", "Hasan Tekedar"],
+    "authors": [
+      "Harun Pirim",
+      "Zaidur Rahman",
+      "Saviz Saei",
+      "Sangam Gyawali",
+      "Mohammad Marufuzzaman",
+      "Nazanin Tajik",
+      "Hasan Tekedar"
+    ],
     "venue": "bioRxiv",
     "year": 2025,
     "type": "preprint",
-    "tags": ["machine learning", "network analysis", "bioinformatics"],
-    "url": "https://www.biorxiv.org/content/10.1101/2025.07.22.666223v1"
+    "tags": [
+      "machine learning",
+      "network analysis",
+      "bioinformatics"
+    ],
+    "url": "https://www.biorxiv.org/content/10.1101/2025.07.22.666223v1.full.pdf"
   },
   {
     "id": "msu-thesis-2024",
     "title": "On topological measures and network vulnerability patterns: a review and comparative analysis",
-    "authors": ["Saviz Saei"],
+    "authors": [
+      "Saviz Saei"
+    ],
     "venue": "Mississippi State University — Ph.D. Dissertation",
     "year": 2024,
     "type": "thesis",
-    "tags": ["network resilience", "topological measures", "stochastic programming"],
+    "tags": [
+      "network resilience",
+      "topological measures",
+      "stochastic programming"
+    ],
     "url": "https://scholarsjunction.msstate.edu/td/6437/"
   },
   {
     "id": "bsi-2022-covid-svi",
-    "title": "Prediction of Community Transmission Level of COVID-19 Using Machine Learning Algorithms Based on the CDC Social Vulnerability Index",
-    "authors": ["Saviz Saei", "Yibin Wang", "Mohammad Marufuzzaman", "Nazanin Morshedlou", "Haifeng Wang"],
+    "title": "Prediction of Community Transmission Level of COVID‑19 Using Machine Learning Algorithms Based on the CDC Social Vulnerability Index",
+    "authors": [
+      "Saviz Saei",
+      "Yibin Wang",
+      "Mohammad Marufuzzaman",
+      "Nazanin Morshedlou",
+      "Haifeng Wang"
+    ],
     "venue": "Biomedical Sciences Instrumentation 58(3):168–176",
     "year": 2022,
     "type": "journal",
-    "tags": ["COVID-19", "SVI", "classification", "public health"],
+    "tags": [
+      "COVID‑19",
+      "SVI",
+      "classification",
+      "public health"
+    ],
     "url": "https://iaexpress.ca/articles-download/volume-58-3-july-2022/"
-  },
-
-  {
-    "id": "under-review-topological-measures",
-    "title": "On the Nexus of Topological Measures and Their Ability to Elucidate Network Vulnerability Patterns",
-    "authors": ["Saviz Saei", "Katherine Barker", "Nazanin Tajik", "Alireza Ermagun"],
-    "venue": "Under review",
-    "year": 2024,
-    "type": "under_review",
-    "status": "under review",
-    "tags": ["network vulnerability", "topology"],
-    "url": ""
   }
 ]
