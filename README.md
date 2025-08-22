@@ -1,7 +1,8 @@
 Saviz Saei — Personal Website
 
 This repository contains the source code for my personal academic and professional website, hosted via GitHub Pages at savizsaei.github.io
-.
+# open in browser
+https://savizsaei.github.io/
 
 🔎 About Me
 
@@ -62,9 +63,6 @@ assets/js/academic.js — Navigation, publications logic, search/filter.
 assets/js/network.js — Animated banner background.
 
 data/publications.json — Publications data in JSON format (used in Publications section).
-
-# open in browser
-(https://savizsaei.github.io/)
 
 
 📧 Email: savizsaei@gmail.com
