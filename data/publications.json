@@ -67,7 +67,8 @@
     "year": 2013,
     "type": "journal",
     "tags": ["vehicle routing", "PSO", "disaster response"],
-    "url": "https://www.sid.ir/paper/83973/en"
+    "url": "https://www.sid.ir/paper/83973/en",
+    "pdf": "assets/img/MSPaper.pdf"
   },
   {
     "id": "bsi-2022-covid-svi",
@@ -77,7 +78,8 @@
     "year": 2022,
     "type": "journal",
     "tags": ["COVID-19", "SVI", "classification", "public health"],
-    "url": "https://iaexpress.ca/wp-content/uploads/2023/01/8_Biomed-Sci-Instrum-Vol58_3_July_2022_Saviz_pg168.pdf"
+    "url": "https://iaexpress.ca/wp-content/uploads/2023/01/8_Biomed-Sci-Instrum-Vol58_3_July_2022_Saviz_pg168.pdf",
+    "pdf": "assets/img/Machine_Learning_Paper.pdf"
   },
   {
     "id": "biorxiv-2025-aeromonas",

@@ -61,7 +61,16 @@
     list.innerHTML = items.map(p=>{
       const authors = (p.authors||[]).join(', ');
       const badge = `<span class="badge">${p.type}</span>`;
-      const link = p.url ? `<a class="btn small" href="${p.url}" target="_blank" rel="noopener">Open</a>` : '';
+      //const link = p.url ? `<a class="btn small" href="${p.url}" target="_blank" rel="noopener">Open</a>` : '';
+  
+      // This section now prioritizes the PDF link over the general URL.
+      let link = '';
+      if (p.pdf) {
+        link = `<a class="btn small" href="${p.pdf}" target="_blank" rel="noopener">PDF</a>`;
+      } else if (p.url) {
+        link = `<a class="btn small" href="${p.url}" target="_blank" rel="noopener">Open</a>`;
+      }
+   
       return `<div class="pub-item">
         <div>
           <div><strong>${p.title}</strong> ${badge}</div>
