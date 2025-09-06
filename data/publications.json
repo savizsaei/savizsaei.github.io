@@ -1,5 +1,16 @@
 [
   {
+  "id": "saei2025topological",
+  "title": "On topological measures and network vulnerability patterns: A comparative analysis",
+  "authors": ["Saei, Saviz", "Barker, Kash", "Tajik, Nazanin", "Ermagun, Alireza"],
+  "venue": "Reliability Engineering & System Safety",
+  "year": 2025,
+  "type": "journal",
+  "pages": "111608",
+  "publisher": "Elsevier",
+  "url": "https://doi.org/10.1016/j.ress.2025.111608"
+},
+  {
     "id": "sede-2025-llm-validation",
     "title": "Beyond Accuracy: Evaluating LLMs for Validating Community Service Provider",
     "authors": ["Saei, S.", "Ghimire, S.", "Anreddy, S."],
