@@ -1,4 +1,19 @@
 Saviz Saei — Personal Website
+<link rel="me" href="https://github.com/savizsaei">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Saviz Saei",
+  "url": "https://savizsaei.github.io/",
+  "sameAs": [
+    "https://github.com/savizsaei",
+    "https://scholar.google.com/citations?hl=en&user=vohVhbkAAAAJ&view_op=list_works&gmla=AH8HC4xynrZEjwGwvlNhmtAXur31b2T5JLhqeodSA3dOrsOVgkH2A7C79OwentrWC6sXncOVa15ttpcWIaOuS9iGswlB9fOw4vNrTw",
+    "https://www.linkedin.com/in/saviz-saei-61141943/",
+    "https://www.linkedin.com/in/YOUR_HANDLE",
+  ]
+}
+</script>
 
 This repository contains the source code for my personal academic and professional website, hosted via GitHub Pages at savizsaei.github.io
 # open in browser
